@@ -3,6 +3,7 @@ _site/*
 .me_configs.data
 .z_sync_configs.data
 sync_changes.log
-sync_hook.script
 **/.Archive
 .DS_Store
+
+sync_hook.script
