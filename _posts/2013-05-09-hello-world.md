@@ -6,8 +6,6 @@ splash: "http://placehold.it/1600x500"
 ---
 
 this is a test hello
-again
-
 
 try it again.
 
