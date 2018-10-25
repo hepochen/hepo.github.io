@@ -5,9 +5,9 @@ layout: blog
 splash: "http://placehold.it/1600x500"
 ---
 
-this is a test hello
+this is a test hello~~~
 
-try it again.
+try it again.~~~~
 
 hello world on New MarkEditor.
 
