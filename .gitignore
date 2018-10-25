@@ -8,3 +8,9 @@ sync_changes.log
 .DS_Store
 
 sync_hook.script
+
+configs/sorts.json
+
+.auto_links.json
+
+.md_configs.data
