@@ -7,19 +7,21 @@
         "img"
     ], 
     "__positions": {
+        "_posts/2015-12-09-new2.md": 3001, 
         "img": 5, 
-        "_posts/2015-09-09-new.md": 3002, 
+        "_posts/2015-09-09-new.md": 3003, 
         "_posts": 3, 
         "_includes/js": 1001, 
-        "_posts/static": 3005, 
+        "_posts/static": 3006, 
         "_includes": 1, 
         "images": 4, 
-        "_posts/2013-06-10-another-post.md": 3004, 
-        "_posts/2013-05-09-hello-world.md": 3001, 
+        "_posts/2013-06-10-another-post.md": 3005, 
+        "_posts/2013-05-09-hello-world.md": 3002, 
         "_layouts": 2, 
-        "_posts/2013-06-16-hello-again.md": 3003
+        "_posts/2013-06-16-hello-again.md": 3004
     }, 
     "_posts": [
+        "2015-12-09-new2.md", 
         "2013-05-09-hello-world.md", 
         "2015-09-09-new.md", 
         "2013-06-16-hello-again.md", 
@@ -30,16 +32,17 @@
         "js"
     ], 
     "__raw_positions": {
+        "_posts/2015-12-09-new2.md": 1, 
         "img": 5, 
-        "_posts/2015-09-09-new.md": 2, 
+        "_posts/2015-09-09-new.md": 3, 
         "_posts": 3, 
         "_includes/js": 1, 
-        "_posts/static": 5, 
+        "_posts/static": 6, 
         "_includes": 1, 
         "images": 4, 
-        "_posts/2013-06-10-another-post.md": 4, 
-        "_posts/2013-05-09-hello-world.md": 1, 
+        "_posts/2013-06-10-another-post.md": 5, 
+        "_posts/2013-05-09-hello-world.md": 2, 
         "_layouts": 2, 
-        "_posts/2013-06-16-hello-again.md": 3
+        "_posts/2013-06-16-hello-again.md": 4
     }
 }
